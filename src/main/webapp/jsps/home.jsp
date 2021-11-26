@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/IMG_9618.JPG" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		NagaShourya World
@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>Nagashourya World</p>
-<p align=center><small>Copyrights 2021 by <a href="http://Nagashouryaworld.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://Nagashouryaworld.com/">NagaShourya World</a> </small></p>
 
 </body>
 </html>
