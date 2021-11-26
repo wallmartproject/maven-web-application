@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/IMG_9618.JPG" alt="" width="500">
+		<img src="images/IMG_9618.JPG" alt="" width="1000">
 	</span>
 	<span style="font-weight: bold;">
 		NagaShourya World
