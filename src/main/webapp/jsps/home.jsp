@@ -5,16 +5,16 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Nagashourya- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/IMG_9618.JPG" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to Nagashourya world. - GitHub-webhook Demo </h1>
-<h1 align="center"> I Love my son myself </h1>
+<h1 align="center"> Hi there, hope you & your family members are safe & healthy </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/IMG_9618.JPG" alt="" width="100">
+		<img src="images/IMG_9618.JPG" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
 		NagaShourya World
