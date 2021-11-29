@@ -22,7 +22,7 @@
 		Karnataka
 		India
 		<br>
-		<a href="nagashouryaworld5@gmail.com">Nagashourya World</a>
+		<a href="nagashouryaworld50@gmail.com">Nagashourya World</a>
 	</span>
 </div>
 <hr>
